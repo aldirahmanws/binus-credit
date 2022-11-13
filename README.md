@@ -1,6 +1,6 @@
 ## Binus React Native
 
-Name : Aldi Rahman Wahyu Sulaksono
+Name : Aldi Rahman Wahyu Sulaksono<br>
 NIM : 2301961834
 
 #### Installation
